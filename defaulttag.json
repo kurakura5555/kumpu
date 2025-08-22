@@ -1865,7 +1865,7 @@
     }
   },
   "Wanwan-EU9G2LMbM9": {
-    "M-World_Skin_Tag": {
+    "M_World_Skin_Tag": {
       "key": "Wanwan-EU9G2LMbM9",
       "hero": "Wanwan",
       "skin_name": "Mworld",
@@ -3305,7 +3305,7 @@
     }
   },
   "Ling-wOxBm4yJ4k": {
-    "M-World_Skin_Tag": {
+    "M_World_Skin_Tag": {
       "key": "Ling-wOxBm4yJ4k",
       "hero": "Ling",
       "skin_name": "Mworld",
@@ -4371,7 +4371,7 @@
     "sort": "0"
   },
   "Yin-PxVWb6kRV1": {
-    "M-World_Skin_Tag": {
+    "M_World_Skin_Tag": {
       "key": "Yin-PxVWb6kRV1",
       "hero": "Yin",
       "skin_name": "Mworld",
@@ -5269,7 +5269,7 @@
     }
   },
   "Popol & Kupa-4RJn8AlJiw": {
-    "Neobeasts_Skin_Tag": {
+    "Transformers_Skin_Tag": {
       "key": "Popol & Kupa-4RJn8AlJiw",
       "hero": "Popol & Kupa",
       "skin_name": "transformers",
@@ -5277,7 +5277,8 @@
       "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
       "sort": "15",
-      "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Neobeasts_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230915123944"
+      "date_upload": "2025-08-22",
+      "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220217000003"
     }
   },
   "Edith-hJ7FwJVQ4M": {
